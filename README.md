@@ -400,7 +400,7 @@ Then to finish the process click delete again
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/T9tS8ud.png"/>
 </p>
 <p>
 Then if you want to see the process click the bell icon on the top right 
